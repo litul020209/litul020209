@@ -21,7 +21,7 @@
 
 <p align="left"> <a href="https://twitter.com/biswaprakash biswal" target="blank"><img src="https://img.shields.io/twitter/follow/biswaprakash biswal?logo=twitter&style=for-the-badge" alt="biswaprakash biswal" /></a> </p>
 
-- 🌱 I’m currently learning **Java+dsa**
+- 🌱 I’m currently learning **Python Full Stack**
 
 - 💬 Ask me about **Java,(Python,C,C++ Basic) , HTML and CSS**
 
