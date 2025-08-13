@@ -23,9 +23,9 @@
 
 - 🌱 I’m currently learning **Python Full Stack**
 
-- 💬 Ask me about **Java,(Python,C,C++ Basic) , HTML and CSS**
+- 💬 Ask me about **Python,(Java,C,C++ Basic) , HTML and CSS**
 
-- 📫 How to reach me **litulubiwal@gmail.com**
+- 📫 How to reach me **biswaprakashbiswal09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
