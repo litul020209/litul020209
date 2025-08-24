@@ -40,7 +40,7 @@
 <!-- Top Languages -->
 ## 📊 Language Usage (Selected Repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litul020209&repo=c-codes,cpp-codes,java-codes,python-dsa&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litul020209&myC_Repos,cpp-codes,java-codes,python-dsa&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
