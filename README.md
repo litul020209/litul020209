@@ -38,12 +38,9 @@
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litul020209&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 <!-- Top Languages -->
-## 📊 Language Usage (Selected Repositories)
+## 📊 Language Usage [other]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litul020209&myC_Repos,cpp-codes,java-codes,python-dsa&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litul020209&hide=python&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](...)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=litul020209&icon=0&color=0)](https://visitcount.itsvg.in)
