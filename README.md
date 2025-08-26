@@ -1,48 +1,299 @@
+<!-- Animated Rainbow Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=BISWAPRAKASH%20BISWAL&fontSize=60&color=0:EEFF00,100:a82da8&stroke=00FF00&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=🚀%20Python%20Wizard%20|%20AI/ML%20Explorer%20|%20Code%20Architect%20🚀&descAlignY=65&descSize=25" />
+</div>
 
-👋 Hey there, I'm Biswaprakash!
+<!-- Animated Banner with Rocket -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+</div>
 
-🌟 Passionate learner & aspiring developer
-🚀 Currently exploring Data Structures & Algorithms (DSA) with Python
-💻 Diving into Python Full Stack Development step by step
-✨ Love to build, break, and rebuild things until they shine!
+<!-- Animated Badges -->
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=litul020209&color=FF00FF&style=for-the-badge&label=🔥+PROFILE+VIEWS)
+  ![](https://img.shields.io/github/followers/litul020209?style=for-the-badge&logo=github&logoColor=white&labelColor=FF1493&color=00FFFF&label=🌟+FOLLOWERS)
+  ![](https://img.shields.io/badge/🎓_B.Tech_CSE-2025-gold?style=for-the-badge)
+  ![](https://img.shields.io/badge/💻_Python_Expert-Level_100-lime?style=for-the-badge)
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Welcome+to+My+Coding+Universe!+🌌;Full+Stack+Developer+in+Making+💻;Python+%2B+DSA+%3D+My+Superpower+⚡;AI%2FML+Enthusiast+🤖;Problem+Solver+Extraordinaire+🧩" alt="Typing SVG" />
+</div>
 
-🛠️ What I’m Learning
+<!-- Neon Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-📚 DSA in Python → sharpening problem-solving skills
+<!-- About Me with Animated Coding GIF -->
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="40"> About The Wizard Behind The Code
 
-🌐 Full Stack with Python → Backend + Frontend + Databases
 
-⚡ Exploring frameworks like Django / Flask
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> 
 
-🚀 Goals for 2025
 
-💡 Solve 500+ DSA problems 🧩
 
-🌟 Build impactful full-stack projects
+```python
+class PythonMaster:
+    def __init__(self):
+        self.name = "🎯 Biswaprakash Biswal"
+        self.role = "🚀 Future Tech Leader"
+        self.education = "🎓 B.Tech CSE 2025"
+        self.location = "🌍 India"
+        
+    def superpowers(self):
+        return {
+            "💪 Languages": ["Python⭐", "C", "C++", "Java"],
+            "🌐 Web Magic": ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
+            "🐍 Python Arsenal": ["NumPy", "Pandas", "Matplotlib"],
+            "💾 Databases": ["MySQL", "SQL"],
+            "📚 Learning Queue": ["React⚛️", "Django🎸", "FastAPI⚡", 
+                                  "Flask🌶️", "MongoDB🍃"],
+            "🏆 Battle Stats": {
+                "LeetCode": "60+ Dragons Slayed 🐉",
+                "HackerRank": "50+ Challenges | 5⭐ Python Badge"
+            }
+        }
+    
+    def life_motto(self):
+        return "☄️ Turning Coffee into Code Since 2020!"
 
-🏆 Contribute to open-source
+me = PythonMaster()
+print(me.life_motto())
+```
 
-📈 Grow into a skilled Python developer
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Biswaprakash Biswal) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Biswaprakash Biswal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Biswaprakash Biswal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Biswaprakash Biswal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biswaprakashbiswal09@gmail.com) 
+<!-- Animated Skills Rainbow -->
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Stack Universe
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=litul020209&theme=tokyonight&hide_border=true)
+<div align="center">
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=litul020209&show_icons=true&theme=tokyonight&hide_border=true)
+### 🔥 Core Superpowers
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="60" />
+<img src="https://img.shields.io/badge/DSA-Master-FF6B6B?style=for-the-badge&logo=thealgorithms&logoColor=white&labelColor=4ECDC4" height="48" />
+<img src="https://img.shields.io/badge/AI/ML-Explorer-FFE66D?style=for-the-badge&logo=tensorflow&logoColor=black&labelColor=A8E6CF" height="48" />
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litul020209&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-<!-- Top Languages -->
-## 📊 Language Usage [other]
+### 🌈 Language Rainbow
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="80">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litul020209&hide=python&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](...)
+### 💫 Web Development Magic
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+ 
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=litul020209&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🎨 Python Ecosystem
+<div>
+  <img src="https://img.shields.io/badge/NumPy-FF6F61?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243" />
+  <img src="https://img.shields.io/badge/Pandas-FFD43B?style=for-the-badge&logo=pandas&logoColor=black&labelColor=150458" />
+  <img src="https://img.shields.io/badge/Matplotlib-11FFBD?style=for-the-badge&logo=plotly&logoColor=black&labelColor=FF6F61" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Currently Mastering
+<marquee behavior="alternate" direction="right">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=20232A" />
+  <img src="https://img.shields.io/badge/Django-44B78B?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20" />
+  <img src="https://img.shields.io/badge/FastAPI-00CED1?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688" />
+  <img src="https://img.shields.io/badge/Flask-FF69B4?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MongoDB-00FF00?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B" />
+</marquee>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🏆 Epic Achievement Gallery
+
+<div align="center">
+  
+### ⚔️ Coding Battlegrounds
+<table>
+<tr>
+<td align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+  <br>
+  <img src="https://i.ibb.co/TB199jyh/Screenshot-2025-08-27-031249.png" width="400" />
+  <br>
+  <img src="https://img.shields.io/badge/Problems_Crushed-50+-FF1744?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" />
+</td>
+<td align="center">
+  <img src="https://i.ibb.co/KpSKJ6Xf/Screenshot-2025-08-17-200426.png" width="100" />
+  <br>
+  <img src="https://img.shields.io/badge/Python_Mastery-5_Stars-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=00EA64" />
+  <br>
+  <img src="https://img.shields.io/badge/Challenges_Completed-50+-FF6B6B?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- GitHub Stats with Gradient -->
+## 📊 GitHub Universe Stats
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=litul020209&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=litul020209&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=FF6B6B&currStreakLabel=00FFFF" />
+</div>
+
+<!-- Language Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=litul020209&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=00FFFF" width="45%" />
+</div>
+
+<!-- Activity Graph with Neon -->
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=litul020209&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF00FF&line=00FFFF&point=FFD700&area=true&area_color=FF00FF" />
+</div>
+
+<!-- Trophy Case -->
+## 🏅 Trophy Collection
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=litul020209&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+</div>
+
+<!-- Contribution Snake with Rainbow -->
+## 🐍 Contribution Snake Eating My Code
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- 3D Contribution Calendar -->
+## 📅 3D Contribution Universe
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=litul020209&theme=radical" width="100%" />
+</div>
+
+<!-- Connect Section with Animated Icons -->
+## 🌐 Connect With Me Across The Multiverse
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
+  
+  <br><br>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF00FF)](www.linkedin.com/in/biswaprakash-biswal)
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=00FFFF)](https://x.com/ImLitul09)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Challenge_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFD700)](https://leetcode.com/u/litul02022003/)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-Compete-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=FF1744)](https://www.hackerrank.com/profile/biswaprakashbi)
+  
+</div>
+
+<!-- Projects Showcase -->
+## 🚀 Featured Projects
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="500">
+</div>
+
+<div align="center">
+  <a href="https://github.com/litul020209">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=litul020209&repo=litul020209&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=00FFFF&icon_color=FFD700" />
+  </a>
+</div>
+
+<!-- Random Dev Quote with Gradient -->
+## 💭 Daily Wisdom From The Code Gods
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+
+
+<!-- Fun Facts with Animation -->
+## ⚡ Epic Facts About Me
+
+<details>
+<summary><b>🌟 Click to Unlock Secret Intel 🌟</b></summary>
+<br>
+<div align="center">
+  
+  ```diff
+  + 🐍 Python is my first language, English is my second!
+  + 💻 60+ LeetCode problems = 60+ victories
+  + 🌟 5-Star HackerRank Badge = Legendary Status
+  + 🤖 Currently building an AI that writes code for me
+  + ☕ Coffee consumption: 404 cups not found
+  + 🎮 Gaming Rank: Code Warrior Level 99
+  + 🚀 Life Goal: Deploy code to Mars
+  + 💭 Dream: To have a conversation with an AI I created
+  ```
+  
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+</div>
+</details>
+
+<!-- Metrics -->
+## 📈 Detailed Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=litul020209&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=litul020209&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=litul020209&theme=radical" width="32%" />
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500">
+</div>
+
+<!-- Rainbow Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Final Epic Message -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=false&width=800&height=60&lines=%E2%9C%A8+Thanks+for+visiting+my+profile!+%E2%9C%A8;%F0%9F%9A%80+Let's+build+something+amazing+together!+%F0%9F%9A%80;%F0%9F%8C%9F+The+future+is+coded+in+Python!+%F0%9F%8C%9F" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <h1>
+    <img src="https://img.shields.io/badge/Open_for-Collaboration-rainbow?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Let's-Connect-FF00FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Code-Together-00FFFF?style=for-the-badge" />
+  </h1>
+</div>
+
+<!-- Animated Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer&text=See%20You%20In%20The%20Code%20Universe!&fontSize=30&fontAlignY=65&animation=twinkling" width="100%" />
+
+<!-- Matrix Effect -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="90%">
+</div>
+
+<!-- 
+╔═══════════════════════════════════════════════════════════════════════╗
+║  🎯 ULTRA SECRET MESSAGE                                             ║
+║  You've discovered the hidden chamber of code!                       ║
+║  If you're reading this, you're one of the chosen ones.             ║
+║  Let's create the future together! Contact me NOW! 🚀               ║
+║                                                                       ║
+║  Easter Egg Code: PYTHON_MASTER_2025                                ║
+╚═══════════════════════════════════════════════════════════════════════╝
+-->
+
+
+
+
+
+
+
