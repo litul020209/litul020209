@@ -145,9 +145,26 @@ print(me.life_motto())
 </div>
 
 <!-- Language Stats -->
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=litul020209&layout=compact&langs_count=6&hide=php&theme=radical" height="300" width="500" />
+</p>
+
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=litul020209&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=00FFFF" width="45%" />
+
+  <h2 style="color:#FF00FF;">Most Used Languages (Excluding JS, HTML, CSS)</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=litul020209&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=00FFFF&hide=javascript,html,css" width="50%" />
+
 </div>
+
+
+
+
+
 
 <!-- Activity Graph with Neon -->
 <div align="center">
