@@ -175,9 +175,9 @@ print(me.life_motto())
 <!-- Trophy Case -->
 ## 🏅 Trophy Collection
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=litul020209&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
+
+
+
 
 <!-- Contribution Snake with Rainbow -->
 ## 🐍 Contribution Snake Eating My Code
