@@ -175,7 +175,11 @@ print(me.life_motto())
 <!-- Trophy Case -->
 ## 🏅 Trophy Collection
 
+<br/>
+<img align="center" alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=litul020209&column=-1&theme=chalk&rank=-?&margin-w=25"/>
+<br/>
 
+<hr color="blue"/>
 
 
 
